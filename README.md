@@ -28,7 +28,7 @@ Sou movido pela curiosidade e pelo prazer de aprender novas tecnologias todos os
 -   🐍 Resolução de problemas e algoritmos utilizando Python
 -   🧩 Prática de versionamento de código e trabalho em equipe
 -   📊 Modelagem de banco de dados relacionais e não-relacionais
--   🎓 Dedicação diária aos estudos teóricos e práticos da faculdade
+-   🎓 Dedicação diária aos estudos teóricos e práticos do curso
 
 ---
 
