@@ -1,4 +1,4 @@
-# Olá 👋, eu sou Samuel Renildo
+# 👋 Olá, meu nome é Samuel Renildo
 
 🚀 **Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Web** 🇧🇷 Brasil
 
