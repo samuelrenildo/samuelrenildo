@@ -49,4 +49,4 @@ Sou movido pela curiosidade e pelo prazer de aprender novas tecnologias todos os
 ---
 
 ⭐ Se gostou dos meus projetos, sinta-se à vontade para deixar uma estrela!  
-🤝 Sempre aberto a conexões, mentorias e oportunidades de estágio.
+🤝 Sempre aberto a conexões e oportunidades de estágio.
