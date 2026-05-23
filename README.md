@@ -3,7 +3,7 @@
 🚀 **Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Web** 🇧🇷 Brasil
 
 Estou construindo minha base sólida em **desenvolvimento de software** e **sistemas web**.  
-Atualmente focado em aprender **lógica de programação, arquitetura limpa e boas práticas de código**, buscando minha primeira oportunidade como **Estagiário**.
+Atualmente focado em aprender **lógica de programação, arquitetura limpa e boas práticas de código**, buscando minha primeira oportunidade como Estagiário.
 
 Sou movido pela curiosidade e pelo prazer de aprender novas tecnologias todos os dias para resolver problemas reais.
 
