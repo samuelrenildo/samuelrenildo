@@ -28,7 +28,7 @@ Busco minha primeira oportunidade como **Desenvolvedor Júnior ou Estagiário**,
 
 - **[Sistema de Empréstimo de Livros (desktop)](https://github.com/samuelrenildo/uc5-projeto-desktop)**: Electron, TypeScript, Vite e PostgreSQL, com instalador para Windows.
 - **[Sistema de Empréstimo de Livros (mobile)](https://github.com/samuelrenildo/uc8-projeto-mobile)**: React Native, Expo, Supabase e SQLite, com uso offline.
-- **[ADEFIM: Plataforma Web Inclusiva](https://github.com/samuelrenildo/ADEFIM-WEBSITE-SENAC)**: front-end com foco em acessibilidade, em projeto de equipe.
+- **[E-commerce com a API Platzi Fake Store](https://github.com/samuelrenildo/uc07-platzi-fakestore--ASMPK-)**: JavaScript e API REST, com interface responsiva para listagem de produtos.
 
 ## 🛠️ Tecnologias
 
