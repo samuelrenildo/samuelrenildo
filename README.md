@@ -30,14 +30,6 @@ Busco minha primeira oportunidade como **Desenvolvedor Júnior ou Estagiário**,
 - **[Sistema de Empréstimo de Livros (mobile)](https://github.com/samuelrenildo/uc8-projeto-mobile)**: React Native, Expo, Supabase e SQLite, com uso offline.
 - **[ADEFIM: Plataforma Web Inclusiva](https://github.com/samuelrenildo/ADEFIM-WEBSITE-SENAC)**: front-end com foco em acessibilidade, em projeto de equipe.
 
-## 💼 Competências
-
-- **Front-end:** HTML5, CSS3, JavaScript, TypeScript
-- **Back-end:** Node.js, TypeScript, APIs REST
-- **Mobile e desktop:** React Native, Expo, Electron, Vite
-- **Banco de dados:** SQL, PostgreSQL, Supabase, SQLite
-- **Outros:** Git, GitHub, acessibilidade web
-
 ## 🛠️ Tecnologias
 
 ### Front-end
@@ -49,9 +41,12 @@ Busco minha primeira oportunidade como **Desenvolvedor Júnior ou Estagiário**,
 ### Mobile e desktop
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Back-end e banco de dados
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![APIs REST](https://img.shields.io/badge/APIs_REST-009688?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -59,6 +54,7 @@ Busco minha primeira oportunidade como **Desenvolvedor Júnior ou Estagiário**,
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Acessibilidade](https://img.shields.io/badge/Acessibilidade_Web-1E3A5F?style=for-the-badge)
 
 ## 🌍 Idiomas
 - Português: nativo
