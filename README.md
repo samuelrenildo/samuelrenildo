@@ -30,6 +30,14 @@ Busco minha primeira oportunidade como **Desenvolvedor Júnior ou Estagiário**,
 - **[Sistema de Empréstimo de Livros (mobile)](https://github.com/samuelrenildo/uc8-projeto-mobile)**: React Native, Expo, Supabase e SQLite, com uso offline.
 - **[ADEFIM: Plataforma Web Inclusiva](https://github.com/samuelrenildo/ADEFIM-WEBSITE-SENAC)**: front-end com foco em acessibilidade, em projeto de equipe.
 
+## 💼 Competências
+
+- **Front-end:** HTML5, CSS3, JavaScript, TypeScript
+- **Back-end:** Node.js, TypeScript, APIs REST
+- **Mobile e desktop:** React Native, Expo, Electron, Vite
+- **Banco de dados:** SQL, PostgreSQL, Supabase, SQLite
+- **Outros:** Git, GitHub, acessibilidade web
+
 ## 🛠️ Tecnologias
 
 ### Front-end
